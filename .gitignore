@@ -1,0 +1,4 @@
+.vscode
+/BD_Farma/Faker/node_modules
+/BD_Farma/Faker/package-lock.json
+.env

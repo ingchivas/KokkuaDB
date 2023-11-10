@@ -1,0 +1,743 @@
+,NombreMedicina,DescripciÛn,Precio_Unitario,Criticidad,NivelDeInventario
+0,BLOPRESS,Caja con 14 tabletas de16 mg. Candesartan Cilexetilo,480.8,alto,29
+1,BLOPRESS,Caja con 28 tabletas de 16 mg. Candesartan Cilexetilo,869.4,alto,47
+2,BLOPRESS,Caja con 14 tabletas de 8 mg. Candesartan Cilexetilo,343.7,bajo,33
+3,BLOPRESS,Caja con 28 tabletas de 8 mg. Candesartan Cilexetilo,666.6,bajo,39
+4,BLOPRESS PLUS,Caja con 14 tabletas de16 mg./12.5 mg. Candesartan Cilexetilo/Hidroclorotiazida,436.7,alto,84
+5,BLOPRESS PLUS,Caja con 28 tabletas de 16 mg./12.5 mg. Candesartan Cilexetilo/Hidroclorotiazida,794.0,medio,81
+6,ZEMPLAR,Caja con 30 c†psulas de 2 mcg Paricalcitol,5175.0,bajo,19
+7,ZEMPLAR ,Caja con 5 ampolletas de 5 mcg/1 ml Paricalcitol,1930.0,medio,87
+8,HUMIRA,Jeringa Prellenada con autoinyector soluciÛn 40 mg Adalimumab,9087.75,alto,31
+9,HUMIRA,Caja con jeringa prellenada con 40 mg. Adalimumab,9087.75,medio,73
+10,KALETRA,Frasco con 160 ml. Solucion Lopinavir /Ritonavir,3297.0,bajo,57
+11,KALETRA,Frasco con 120 tabletas 200 mg/ 50 mg. Lopinavir /Ritonavir,6760.0,medio,7
+12,KALETRA,Frasco con 60 tabletas 100 mg/ 25 mg. Lopinavir /Ritonavir,3050.0,medio,30
+13,NORVIR,2 frascos con 84 c†psulas de 100 mg. Ritonavir,3049.8,medio,27
+14,NORVIR,Frasco con 30 tabletas de 100 mg. Ritonavir,567.0,medio,84
+15,VIEKIRA PAK,Caja con 4 cajas individuales con 7 carteras con 2 tabletas y 2 tabletas (Dasabuvir) Ombitasvir / Paritaprevir / Ritonavir y Dasabruvir,283334.0,bajo,51
+16,ZAVESCA,Caja con 84 c†psulas de 100 mg Miglustat,173526.0,medio,21
+17,NEVANAC,Frasco gotero con 5 ml. Nepafenaco,415.1,bajo,23
+18,PATANOL,Caja con frasco gotero con 5 ml. Olopatadina,417.28,bajo,61
+19,PATANOL 0.2%,Caja con frasco gotero con 2.5 ml. Olopatadina,417.28,alto,78
+20,VIGAMOXI,Frasco gotero con 5 ml. Moxifloxacino,480.81,alto,10
+21,ARANESP,Envase de burbuja con 4 viales de 20 mcg/0.5ml Darbepoetina alfa,4200.06,bajo,18
+22,ARANESP,Envase de burbuja con 4 viales de 30 mcg/0.3ml Darbepoetina alfa,6820.02,medio,50
+23,ARANESP,Envase de burbuja con 4 viales de 40 mcg/0.4ml Darbepoetina alfa,11927.9,medio,92
+24,ARANESP,Envase de burbuja con 4 viales de 60 mcg/0.3ml Darbepoetina alfa,20057.54,alto,44
+25,ARANESP,Envase de burbuja con 4 jeringas de 100 mcg/0.5ml Darbepoetina alfa,37365.05,alto,17
+26,ARANESP,Envase de burbuja con 1 vial de 300 mcg/0.6ml Darbepoetina alfa,27280.2,alto,31
+27,ARANESP,Envase de burbuja con 1 vial de 500 mcg/1 ml Darbepoetina alfa,41277.48,bajo,70
+28,BLINCYTO,Caja con frasco de 35 mcg y un frasco con solucion estabilizadora IV Blinatumomab,93884.75,alto,52
+29,MIMPARA,Frasco con 30 tabletas de 60 mg Cinacaltec,9776.41,alto,50
+30,MIMPARA,Frasco con 30 tabletas de 30 mg Cinacaltec,4348.0,medio,78
+31,NEULASTIM,Caja con 1 jeringa prellenada de 6 mg./0.6 ml. Pegfilgrastim,31037.0,medio,35
+32,NPLATE,Frasco †mpula tipo I con polvo de 375 mcg Romiplostim,14926.0,bajo,10
+33,PROLIA,Cja con jeringa prellenada de mg/ml Denosumab,5498.0,alto,12
+34,REPATHA,Caja con 1 pluma precargada con 140 mg./ml. Evolocumab,19225.93,alto,10
+35,XGEVA,Frasco †mpula con 120mg / 1.7ml Denosumab,8506.0,medio,30
+36,PREDXAL,Caja con 14 tabletas de 80 mg. Telmisartan,569.5,alto,76
+37,PREDXAL,Caja con 28 tabletas de 80 mg. Telmisartan,987.3,bajo,38
+38,PREDXAL,Caja con 28 tabs. de 40 mg. Telmisartan,730.2,medio,6
+39,PREDXAL,Caja con 14 tabs. de 40 mg. Telmisartan,418.3,alto,50
+40,PREDXAL PLUS,Caja con 14 tabletas de 80 mg. + 12.5 mg. Telmisartan/Hidroclorotiazida,572.5,alto,64
+41,ACCOLATE,Caja con 28 tabletas de 20 mg. Zafirlukast,465.0,medio,46
+42,ACCOLATE,Caja con 28 tabletas de 10 mg. Zafirlukast,352.0,bajo,40
+43,ARIMIDEX,Caja con 14 tabletas de 1 mg. Anastrozol,1347.0,bajo,42
+44,ARIMIDEX,Caja con 28 tabletas de 1 mg. Anastrozol,2572.0,alto,85
+45,ATACAND,Caja con 10 tabletas de 8 mg. Candesartand,191.0,alto,51
+46,ATACAND,Caja con 20 tabletas de 8 mg. Candesartand,340.0,medio,87
+47,ATACAND,Caja con 10 tabletas de 16 mg. Candesartand,235.0,alto,85
+48,ATACAND,Caja con 20 tabletas de 16 mg. Candesartand,460.0,medio,67
+49,ATACAND,Caja con 28 tabletas de 8 mg. Candesartand,524.0,alto,11
+50,ATACAND,Caja con 14 tabletas de 8 mg. Candesartand,278.0,alto,87
+51,ATACAND,Caja con 28 tabletas de 16 mg. Candesartand,677.0,alto,49
+52,ATACAND,Caja con 14 tabletas de 16 Candesartand,346.0,bajo,58
+53,ATACAND,Caja con 14 tabletas de 32 mg. Candesartand,677.0,medio,15
+54,ATACAND,Caja con 28 tabletas de 32 mg. Candesartand,1354.0,medio,62
+55,ATACAND PLUS,Caja con 28 tabletas de 16/12.5 mg. Candesartand/Hidroclorotiazida,619.0,medio,1
+56,ATACAND PLUS,Caja con 14 tabletas de 16/12.5 mg. Candesartand/Hidroclorotiazida,335.0,bajo,70
+57,BRILINTA,Caja con 30 tabletas recubierta de 90 mg Ticagrelor,1013.25,bajo,64
+58,BRILINTA,Caja con 60 tabletas recubiertas de 90 mg Ticagrelor,2025.75,bajo,37
+59,BYDUREON,Caja con 4 estuches de dosis unica. 2 ml por dosis Exenatida,2269.0,bajo,31
+60,CAPRELSA,Caja 30 tabletas con 300 mg Vandetanib,111549.0,medio,12
+61,CAPRELSA,Caja 30 tabletas con 100 mg Vandetanib,55774.5,medio,84
+62,CASODEX,Caja con 14 tabletas 150 mg. Bicalutamida,2326.0,medio,19
+63,CASODEX,Caja con 28 tabletas 150 mg. Bicalutamida,4652.0,bajo,32
+64,CASODEX,Caja con 14 tabletas 50 mg. Bicalutamida,1218.0,alto,41
+65,CASODEX,Caja con 28 tabletas 50 mg. Bicalutamida,2436.0,bajo,74
+66,CRESTOR,Caja con 30 tabletas  recubiertas 5 mg. Rosuvastatina,455.0,alto,44
+67,CRESTOR,Caja con 30 tabletas  recubiertas 10 mg. Rosuvastatina,827.0,alto,80
+68,CRESTOR,Caja con 10 tabletas  recubiertas 20 mg. Rosuvastatina,398.0,bajo,23
+69,CRESTOR,Caja con 20 tabletas  recubiertas 10 mg. Rosuvastatina,453.0,medio,100
+70,CRESTOR ,Caja con 30 tabletas  recubiertas 20 mg. Rosuvastatina,1172.0,medio,84
+71,CRESTOR ,Caja con 20 tabletas  recubiertas 40 mg. Rosuvastatina,1000.0,bajo,84
+72,DIPRIVAN,Caja con frasco ampula 1 gr. emulsi¢n inyectable 100 ml. Propofol,829.0,alto,55
+73,DIPRIVAN,Caja con 5 ampolletas 20 ml. emulsi¢n inyectable 200 mg. Propofol,1022.0,bajo,33
+74,DIPRIVAN,Caja con jeringa prellenada emulsi¢n inyectable 1% 50 ml/500 mg. Propofol,492.0,medio,41
+75,DIPRIVAN,Caja con frasco ampula 500 mg. emulsi¢n inyectable 50 ml. Propofol,427.0,alto,14
+76,EKLIRA GENUAIR,Caja con 1 inhalador con 60 dosis unitarias 322 mcg. Bromuto de Aclidinio,984.0,medio,40
+77,FASLODEX ,Caja con jeringa prellenada sol inyectable  250mg/5ml Fulvestrant,9863.2,alto,13
+78,FASLODEX ,Caja 2 jeringas prellenadas con 250mg/5 ml Fulvestrant,15833.0,bajo,88
+79,FORXIGA,Caja con 14 tabletas de 10mg. Dapagliflozina,641.0,alto,84
+80,FORXIGA,Caja con 28 tabletas de 10mg. Dapagliflozina,1138.0,bajo,14
+81,IRESSA,Caja con 30 tabletas de 250 mg. Gefitinib,32151.5,alto,9
+82,KOMBIGLYZE XR,Caja con 28 tabletas de 2.5 mg/1000mg. Saxagliptina/Metformina,616.5,medio,84
+83,KOMBIGLYZE XR,Caja con 56 tabletas de 2.5 mg/1000mg. Saxagliptina/Metformina,1221.0,bajo,17
+84,KOMBIGLYZE XR,Caja con 14 tabletas de 5 mg/1000mg. Saxagliptina/Metformina,616.5,bajo,74
+85,KOMBIGLYZE XR,Caja con 28 tabletas de 5 mg/1000mg. Saxagliptina/Metformina,1221.0,bajo,78
+86,LINPARZA,Caja con cuatro frascos de 112 c·psulas de 50 mg Olaparib,128879.0,bajo,91
+87,MERREM I.V.,Caja con frasco ampula 500 mg. Polvo (soluci¢n inyectable) Meropenem,497.0,bajo,53
+88,MERREM I.V.,Caja con frasco ampula 1 gr. Polvo (soluci¢n inyectable) Meropenem,972.0,bajo,26
+89,NEXIUM ,Caja con 28 sobres de 2.5 mg granulado Esomeprazol,434.75,medio,10
+90,NEXIUM  ,Caja con 28 sobres de 10 mg granulado Esomeprazol,618.5,bajo,35
+91,NEXIUM I.V.,Caja con frasco ampula 40 mg.  Esomeprazol,293.0,alto,66
+92,NEXIUM-MUPS,Caja con 7 tabletas 40 mg. Esomeprazol,426.25,bajo,39
+93,NEXIUM-MUPS,Caja con 14 tabletas 40 mg. Esomeprazol,682.25,alto,49
+94,NEXIUM-MUPS,Caja con 14 tabletas 20 mg. Esomeprazol,478.0,medio,77
+95,ONGLYZA,Caja con 28 tabletas de 5 mg. Saxagliptina,1038.5,bajo,62
+96,ONGLYZA,Caja con 14 tabletas de 5 mg. Saxagliptina,556.0,medio,11
+97,ONGLYZA,Caja con 28 tabletas de 2.5 mg. Saxagliptina,1038.5,alto,45
+98,SEROQUEL,Caja con 28 tabletas 25 mg. Quetiapina,465.0,bajo,68
+99,SEROQUEL,Caja con 15 tabletas 100 mg. Quetiapina,571.0,alto,42
+100,SEROQUEL,Caja con 60 tabletas 100 mg. Quetiapina,2104.0,alto,70
+101,SEROQUEL,Caja con 30 tabletas 100 mg. Quetiapina,1143.0,bajo,75
+102,SEROQUEL,Caja con 15 tabletas 200 mg. Quetiapina,840.0,alto,20
+103,SEROQUEL,Caja con 30 tabletas 200 mg. Quetiapina,1523.0,bajo,55
+104,SEROQUEL ,Caja con 20 tabletas 300 mg. Quetiapina,1120.0,medio,80
+105,SEROQUEL XR,Caja con 30 tabletas  50 mg. Quetiapina,903.0,medio,36
+106,SEROQUEL XR,Caja con 30 tabletas 300 mg. Quetiapina,1824.0,alto,27
+107,ZINFORO,Caja con 10 frascos con polvo 600 mg Ceftarolina fosamilo,9708.0,bajo,6
+108,ZOMIG,Caja con 2 tabletas 2.5 mg. Zolmitriptano,286.0,bajo,33
+109,ZOMIG RAPIMELT,Caja con 2 tabletas 2.5 mg. Zolmitriptano,286.0,medio,58
+110,LEVITRA,Caja con 1 tableta 5 mg. Vardenafil clor. Trih,145.0,medio,19
+111,AVELOX,Caja con 7 tabletas de 400 mg. Moxifloxacino clorh,769.5,medio,27
+112,AVELOX,Frasco †mpula 250 ml. (160 mg./100 ml.) 400 mg. Moxifloxacino clorh,700.75,medio,52
+113,AVELOX,Caja con 5 tabletas de 400 mg. Moxifloxacino clorh,618.75,bajo,30
+114,LEVITRA,Caja con 4 tabletas 10 mg. Vardenafil clor. Trih,934.0,alto,54
+115,LEVITRA,Caja con 1 tableta 10 mg. Vardenafil clor. Trih,236.5,medio,81
+116,LEVITRA,Caja con 4 tabletas 20 mg. Vardenafil clor. Trih,1081.75,bajo,27
+117,LEVITRA,Caja con 1 tableta 20 mg. Vardenafil clor. Trih,275.75,medio,13
+118,NEXAVAR,Caja con 112 comprimidos 200 mg. Sorafenib Tosilato,72888.75,medio,69
+119,SPECTRACEF,Caja con 10 comprimidos de 200 mg. Cefditoren pivoxilo,276.5,bajo,19
+120,SPECTRACEF,Caja con 10 comprimidos de 400 mg. Cefditoren pivoxilo,659.0,bajo,85
+121,XARELTO,Caja con 10 comprimidos de 10 mg. Rivaroxab†n,1458.5,medio,84
+122,XARELTO,Caja con 30 comprimidos de 10 mg. Rivaroxab†n,1899.5,bajo,89
+123,XARELTO,Caja con 28 comprimidos de 15 mg. Rivaroxab†n,1453.75,medio,3
+124,XARELTO,Caja con 28 comprimidos de 20 mg. Rivaroxab†n,1454.75,medio,41
+125,APTIVUS,Caja con  frasco con 120 c†psulas con 250 mcg. Tripanavir,13100.0,alto,11
+126,GIOTRIF,Caja con 30 tabletas de 20 mg. Afatinib,47489.0,alto,27
+127,GIOTRIF,Caja con 30 tabletas de 30 mg. Afatinib,47489.0,alto,96
+128,GIOTRIF,Caja con 30 tabletas de 40 mg. Afatinib,47489.0,medio,41
+129,GIOTRIF,Caja con 30 tabletas de 50 mg. Afatinib,47489.0,bajo,72
+130,JARDIANZ,Caja con 10 comprimidos de 10 mg. Empaglifloxina,501.0,alto,58
+131,JARDIANZ,Caja con 30 comprimidos de 10 mg. Empaglifloxina,1249.666667,bajo,16
+132,JARDIANZ,Caja con 10 comprimidos de 25 mg. Empaglifloxina,500.3333333,bajo,83
+133,JARDIANZ,Caja con 30 comprimidos de 25 mg. Empaglifloxina,1249.666667,bajo,24
+134,JARDIANZ DUO,Caja con 30 tabletas con 5/850 mg Empagliflozina/Metformina,668.0,alto,1
+135,JARDIANZ DUO,Caja con 60 tabletas con 5/850 mg Empagliflozina/Metformina,1291.0,alto,45
+136,JARDIANZ DUO,Caja con 30 tabletas con 12.5/850 mg Empagliflozina/Metformina,668.0,alto,9
+137,JARDIANZ DUO,Caja con 60 tabletas con 12.5/850 mg Empagliflozina/Metformina,1291.0,medio,36
+138,JARDIANZ DUO,Caja con 30 tabletas con 12.5/1000 mg Empagliflozina/Metformina,668.0,medio,49
+139,JARDIANZ DUO,Caja con 60 tabletas con 12.5/1000 mg Empagliflozina/Metformina,1291.0,bajo,50
+140,MICARDIS,Caja con 28 tabletas de 80 mg. Telmisartan,987.3,medio,70
+141,MICARDIS,Caja con 28 tabletas de 40 mg. Telmisartan,730.2,bajo,74
+142,MICARDIS,Caja con 14 tabletas de 80 mg. Telmisartan,569.5,medio,60
+143,MICARDIS,Caja con 14 tabletas de 40 mg. Telmisartan,418.3,bajo,47
+144,MICARDIS PLUS,Caja con 28 tabletas de 80 mg. + 12.5 mg. Telmisartan,1010.0,alto,83
+145,MICARDIS PLUS,Caja con 14 tabletas de 80 mg. + 12.5 mg. Telmisartan,572.5,alto,22
+146,MICARDIS PLUS,Caja con 14 tabletas de 80 mg. + 25 mg. Telmisartan,583.5,alto,45
+147,OFEV,Caja con 60 c·psulas con 100 mg Nintedanib,27624.0,medio,42
+148,OFEV,Caja con 60 c·psulas con 150 mg Nintedanib,48042.0,alto,20
+149,PRADAXAR,Caja con 30 c†psulas con 110 mg. Diavigatran Etexilato,1760.0,bajo,71
+150,PRADAXAR,Caja con 10 c†psulas con 110 mg. Diavigatran Etexilato,720.0,alto,34
+151,PRADAXAR,Caja con 30 c†psulas con 75 mg. Diavigatran Etexilato,1760.0,alto,88
+152,PRADAXAR,Caja con 30 c†psulas con 150 mg. Diavigatran Etexilato,1760.0,bajo,27
+153,SPIOLTO,Caja con cartucho con 4 ml que contiene 30 dosis y dispositivo dosificador (Respimat) Tiotropio / Olodaterol,1126.203636,alto,2
+154,SPIRIVA,Caja con 10 c†psulas y dispos. Inhalador  con 18 mcg. Tiotropio,420.3,bajo,29
+155,SPIRIVA,Caja con 20 c†psulas con 18 mcg. Tiotropio,702.0,alto,87
+156,SPIRIVA,Caja con 30 c†psulas y disp. HandiHaler  con 18 mcg. Tiotropio,1024.0,bajo,33
+157,SPIRIVA,Caja con 30 c†psulas con 18 mcg. Tiotropio,995.0,medio,23
+158,STRIVERDI RESPIMAT,Caja con cartucho con 4 ml (0.227 mg/mL.)dispositivo que proporciona 30 dosis (5 mcg/dosis) Olodaterol,729.3333333,alto,91
+159,TRAYENTA,Caja con 10 tabletasde 5mg Linagliptina,477.3333333,alto,55
+160,TRAYENTA,Caja con 30 tabletas 5 mg Linagliptina,1216.0,alto,13
+161,TRAYENTA DUO,Caja con 30 tabletas 2.5/500 mg Linagliptina/Metforfia,681.3333333,medio,39
+162,TRAYENTA DUO,Caja con 30 tabletas 2.5/850 mg Linagliptina/Metforfia,681.3333333,alto,19
+163,TRAYENTA DUO,Caja con 30 tabletas 2.5/1000 mg Linagliptina/Metforfia,681.3333333,medio,25
+164,TRAYENTA DUO,Caja con 60 tabletas 2.5/500 mg Linagliptina/Metforfia,1282.666667,bajo,75
+165,TRAYENTA DUO,Caja con 60 tabletas 2.5/850 mg Linagliptina/Metforfia,1282.666667,bajo,24
+166,TRAYENTA DUO,Caja con 60 tabletas 2.5/1000 mg Linagliptina/Metforfia,1282.666667,bajo,11
+167,VARGATEF,Caja con 120 c·psulas con 100 mg. Nintedanib,48042.0,alto,25
+168,VARGATEF,Caja con 60 c·psulas con 150 mg. Nintedanib,48042.0,alto,22
+169,VIRAMUNE,Frasco con 60 tabletas de 200 mg. Nevirapina,499.5,bajo,92
+170,VIRAMUNE,Caja con frasco de 240 mg. y jeringa dosificadora Nevirapina Hemihidratada de,573.1,alto,20
+171,ABILIFY,Caja con 10 tabletas de 15 mg. Aripiprazol,1034.45,bajo,13
+172,ABILIFY,Caja con 20 tabletas de 15 mg. Aripiprazol,1991.6,medio,10
+173,ABILIFY,Caja con 10 tabletas de 30 mg. Aripiprazol,1379.3,bajo,21
+174,ABILIFY,Caja con 10 tabletas de 10 mg. Aripiprazol,1034.45,bajo,4
+175,AVALIDE,Caja con 14 tabletas de 300/12.5 mg. Irbesartan/Hidroclorotiazida,434.5,medio,55
+176,AVALIDE,Caja con 28 tabletas de 300/12.5 mg. Irbesartan/Hidroclorotiazida,850.15,medio,15
+177,AVALIDE,Caja con 14 tabletas de 150/12.5 mg. Irbesartan/Hidroclorotiazida,305.15,bajo,44
+178,AVALIDE,Caja con 28 tabletas de 150/12.5 mg. Irbesartan/Hidroclorotiazida,553.05,medio,9
+179,AVALIDE,Caja con 28 tabletas de 300/25 mg. Irbesartan/Hidroclorotiazida,884.05,bajo,40
+180,AVALIDE ,Caja con 14 tabletas de 300/25 mg. Irbesartan/Hidroclorotiazida,451.9,alto,57
+181,AVAPRO,Caja con 14 tabletas de 300 mg. Irbesartan,411.65,bajo,61
+182,AVAPRO,Caja con 14 tabletas de 150 mg. Irbesartan,299.6,medio,33
+183,AVAPRO,Caja con 28 tabletas de 300 mg. Irbesartan,801.4,bajo,22
+184,AVAPRO,Caja con 28 tabletas de 150 mg. Irbesartan,546.95,bajo,85
+185,ELICUIS,Caja con 20 tabletas de 2.5 mg. Apixab†n,563.75,alto,25
+186,ELICUIS,Caja con 60 tabletas de 2.5 mg. Apixab†n,1614.4,medio,35
+187,ELICUIS,Caja con 20 tabletas de 5 mg. Apixab†n,563.75,medio,81
+188,ELICUIS,Caja con 60 tabletas de 5mg. Apixab†n,1614.4,medio,76
+189,ISCOVER,Caja con 14 tabletas de 75 mg. Clopidogrel Bisulfato de,634.2,bajo,93
+190,ISCOVER,Caja con 28 tabletas de 75 mg. Clopidogrel Bisulfato de,1153.25,alto,76
+191,ISCOVER,Caja con 4 tabletas de 300 mg. Clopidogrel Bisulfato de,659.0,medio,99
+192,IXEMPRYA,Frasco ·mpula 45 mg con diluyente 23.5 ml. Ixabepilona,19588.15,alto,10
+193,IXEMPRYA,Frasco ·mpula 15 mg con diluyente 8 ml. Ixabepilona,7182.808333,medio,4
+194,REYATAZ,Frasco con 60 c†psulas de 150 mg. Atazanavir Sulfato de,8138.87,medio,75
+195,REYATAZ,Frasco con 60 c†psulas de 200 mg. Atazanavir Sulfato de,8138.87,bajo,76
+196,REYATAZ,Frasco con 30 c†psulas de 300 mg. Atazanavir Sulfato de,8138.855833,medio,40
+197,SPRYCEL  ,Caja con frasco con 60 tabletas de 70 mg. Desatinib,69953.5,medio,48
+198,SPRYCEL   ,Caja con frasco con 60 tabletas de 50 mg. Desatinib,64251.4625,bajo,86
+199,YERVOY,Frasco †mpula de 10 ml (50mg/ 10ml) Ipilimumab,76844.25,alto,79
+200,DAKLINZA,Caja con 28 tabletas de 60 mg en envase de burbuja e instructivo. Daclatasvir,111982.8,alto,17
+201,OPDIVO,SoluciÛn inyectable frasco ·mpula com 100 mg/10 ml Nivolumab,30943.14,alto,19
+202,OPDIVO,SoluciÛn inyectable frasco ·mpula com 40 mg/4 ml Nivolumab,12377.26,medio,22
+203,SUNVEPRA,Caja con 56 c·psulas de galtina blanda con 100 mg Asunaprevir,8604.0,bajo,95
+204,HALAVEN,Caja con frasco ampula con 1mg/2ml Mesilato de Eribulina,6584.208333,bajo,45
+205,LENVIMA,10 mg- Caja con 30 c·psulas en 6 carteras con 5 c·psulas de 10 mg. Lenvatinib,57085.71429,medio,52
+206,LENVIMA,14 mg - Caja con 60 c·psulas en 6 carteras con 5 c·psulas de 4 mg y 5 c·psulas de 10 mg. Lenvatinib,57085.71429,alto,1
+207,LENVIMA,20 mg - Caja con 60 c·psulas en 6 carteras con 10 c·psulas de 10 mg. Lenvatinib,95142.85714,alto,74
+208,LENVIMA,24 mg. Caja con 90 c·psulas en 6 carteras con 5 c·psulas de 4 mg y 10 c·psulas de 10 mg. Lenvatinib,95142.85714,alto,63
+209,ADCIRCA,Caja con 56 tabletas de 20 mg Tadalafil,15106.0,medio,54
+210,ALIMTA,Caja con frasco sol. Iny. 500 mg Pemetrexed,17876.5,alto,32
+211,CIALIS,Caja con 8 tabletas de 20 mg Tadalafil,2642.7,medio,20
+212,CIALIS,Caja con 4 tabletas de 20 mg Tadalafil,1451.483333,medio,64
+213,CIALIS,Caja con 1 tabeta de 20 mg. Tadalafil,415.0333333,medio,13
+214,CIALIS OAD,Caja con 28 tabletas de 5 mg Tadalafil,2427.366667,bajo,94
+215,CIALIS OAD,Caja con 14 tabletas de 5 mg Tadalafil,1341.466667,alto,37
+216,COMPETACT,Caja con 14 tabletas de 15 mg / 850 mg Pioglitazona/Metformina,523.0,medio,97
+217,EFFIENT,Caja con 14 tabletas de 10 mg Prasugrel,716.4583333,bajo,31
+218,EFFIENT,Caja con 14 tabletas de 5 mg Prasugrel,716.4583333,alto,81
+219,EVISTA,Caja con 28 tabletas de 60 mg Raloxifeno Clorhi.,1455.233333,alto,75
+220,GEMZAR,Caja con 1 vial de 1 g. Gemcitabina,4821.55,bajo,16
+221,GEMZAR,Caja con 1 vial de 200 mg. Gemcitabina,991.3,medio,19
+222,HUMALOG,Caja con 2 cartuchos de 3 ml Insulina Lispro,397.1,medio,87
+223,HUMALOG,Caja con frasco †mpula 100 U.I. de 10 ml Insulina Lispro,605.45,bajo,13
+224,HUMALOG MIX 25,Caja con 2 cartuchos de 3.0  ml. Insulina Lispro,354.0,bajo,76
+225,HUMALOG MIX 25,Frasco vial 10 ml  Insulina Lispro,674.25,alto,64
+226,SYMBYAX,Caja con 14 c†psulas de 6 mg/25 mg Olanzapina/Fluorexetina,1072.15,bajo,28
+227,SYMBYAX,Caja con 14 c†psulas de 12 mg/50 mg Olanzapina/Fluorexetina,1938.5,bajo,37
+228,SYMBYAX,Caja con 14 c†psulas de 12 mg/25 mg Olanzapina/Fluorexetina,1859.75,alto,62
+229,SYMBYAX,Caja con 14 c†psulas de 6 mg/50 mg Olanzapina/Fluorexetina,1151.75,medio,95
+230,ZACTOS,Caja con 7 tabletas de 30 mg Pioglitazona,544.1,bajo,69
+231,ZACTOS,Caja con 7 tabletas de 45 mg Pioglitazona,589.85,alto,41
+232,ZACTOS,Caja con 7 tabletas 15 mg. Pioglitazona,272.35,bajo,43
+233,ZYPREXA,Caja con 7 tabletas de 10 mg Olanzapina,814.5,medio,11
+234,ZYPREXA,Caja con 14 tabletas de 10 mg Olanzapina,1470.75,medio,94
+235,ZYPREXA,Caja con 14 tabletas de 5 mg Olanzapina,858.8,medio,31
+236,ZYPREXA,Caja con fco amp sol iny vial de 10 mg Olanzapina,169.0,bajo,72
+237,ZYPREXA ZYDIS,Caja con 14 tabletas de 5 mg Olanzapina,758.07,bajo,19
+238,ZYPREXA ZYDIS,Caja con 14 tabletas de 10 mg Olanzapina,1303.97,bajo,48
+239,EVISTA,Caja con 14 tabletas de 60 mg Clorohidrato de Raloxifeno,748.6166667,bajo,57
+240,TRULICITY,Caja de carton con 2 plumas 0.75 mg / 0.5 ml Dulaglutida,2929.775,alto,78
+241,TRULICITY,Caja de carton con 2 plumas 1.5 mg / 0.5 ml Dulaglutida,3047.608333,bajo,19
+242,TRACLEER,Caja con 60 tabletas de 62.5 mg Bosentan,66600.0,medio,14
+243,TRACLEER,Caja con 60 tabletas de 125 mg Bosentan,91200.0,medio,48
+244,ATRIPLA,Caja con 30 tabletas de 300 mg/ 600mg/200 mg. Tenoforir/Efavirenz/Emtricitabina,16189.62,bajo,83
+245,EMTRIVA,Caja de cart¢n con  30 c†psulas e instructivo. Emtricitabina,3904.0,alto,30
+246,TRUVADA,Caja con 30 tabletas de 300 mg/ 200 mg. Tenofovir-Disoproxil fumarato de/Emtricitabina,10480.9,medio,87
+247,TYSABRI,Caja con 1 frasco †mpula con 15ml (20mg/ml) Natalizumab,54684.0,medio,2
+248,VIREAD,Caja con 30 tabletas de 245mg  Tenofovir Disoproxil Fumarato,6931.62,medio,35
+249,ARAHKOR,Caja con frasco de 20 tableras de 60 mg Fimasart·n,512.6,alto,8
+250,FAMPYRA,Caja de cartÛn con 56 tabletas con cuatro frascos con 14 tabletas cada uno Aminopiridina,17242.56,alto,70
+251,3TC,Caja de cart¢n con  60 c†psulas de 150Mg e instructivo. Lamivudina,3021.3,bajo,84
+252,3TC,Caja con frasco c/240 ml. (1 gr./100 ml.) soluci¢n Lamivudina,1043.33,bajo,27
+253,ALTARGO,"Tubo con 5 grs, ungÅento al 1% Retapamulina",249.29,medio,63
+254,ALTARGO,"Tubo con 15 grs, ungÅento al 1% Retapamulina",366.3025,bajo,1
+255,ANORO,Caja con un dispositivoinhalador con dos blisters con 30 dosis 74.2/40 mcg. Bromuro de umeclidium / Trifenatato de vilanterol,859.5,alto,4
+256,AVAMYS,Frasco con 120 d¢sis aquaspray de 27.5 mcg Fluroato de Fluticasona,368.54,medio,67
+257,AVANDAMET,Caja con 14 tabletas de 4 mg./500 mg. Rosiglitazona/Metformina clorhidrato de,599.11,medio,87
+258,AVANDAMET,Caja con 14 tabletas de 2 mg./500 mg. Rosiglitazona/Metformina clorhidrato de,345.05,bajo,29
+259,AVANDAMET,Caja con 14 tabletas de 4 mg./1000 mg. Rosiglitazona/Metformina clorhidrato de,557.77,alto,58
+260,AVANDAMET,Caja con 14 tabletas de 2 mg./1000 mg. Rosiglitazona/Metformina clorhidrato de,311.15,bajo,38
+261,AVANDARYL,Caja con 14 tabletas de 4 mg/2 mg. Rosiglitazona,652.64,medio,3
+262,AVANDARYL,Caja con 14 tabletas de 4 mg/4 mg. Rosiglitazona,652.64,bajo,49
+263,AVANDARYL,Caja con 7 tabletas de 4 mg/2 mg. Rosiglitazona,301.0,alto,35
+264,AVANDARYL,Caja con 7 tabletas de 4 mg/4 mg. Rosiglitazona,301.0,medio,68
+265,AVANDIA,Caja con 14 grageas 8 mg. Rosiglitazona,1167.91,medio,70
+266,AVANDIA,Caja con 14 grageas 4 mg. Rosiglitazona,652.64,medio,34
+267,AVANDIA,Caja con 7 grageas de 8 mg. Rosiglitazona,565.2,bajo,18
+268,AVANDIA,Caja con 7 grageas de 4 mg. Rosiglitazona,313.0,bajo,9
+269,AVODART,Caja con  30 grageas de 0.5 mg. Dutasterida,965.86,alto,27
+270,AVODART,Caja con  90 grageas de 0.5 mg. Dutasterida,1890.0,bajo,72
+271,BENLYSTIA IV,Caja con frasco ·mpula con polvo liofilizado 120 mg*1 Belimumab,2325.0,alto,29
+272,BENLYSTIA IV,Caja con frasco ·mpula con polvo liofilizado 400 mg x 1 Belimumab,7750.0,alto,45
+273,COMBIVIR,Caja con 60 tabletas de 150 mg./300 mg. Lamivudina/Zidovudina,4402.08,alto,81
+274,COMBODART,Caja con frasco con 30 tabletas de 0.5mg./0.4mg. Dutasterida/Tamsolusina,946.92,alto,91
+275,FRAXIPARINE,Caja con 2 jeringas prellenadas de 0.4 ml Nadroparina c†lcica,106.71,alto,53
+276,FRAXIPARINE,Caja con 2 jeringas prellenadas de 0.3 ml Nadroparina c†lcica,87.75,alto,29
+277,FRAXIPARINE,Caja con 2 jeringas prellenadas de 0.6 ml Nadroparina c†lcica,154.84,medio,19
+278,KIVEXA,Caja con  30 tabletas de 600 mg./300 mg. Abacavir/Lamivudina,7762.1625,alto,6
+279,NIMBEX,Caja con 1 ampolleta de 5.0 ml. con 10 mg. Cisatracurio Besilato de,161.82,alto,23
+280,NIMBEX,Caja con 1 ampolleta de 2.5 ml. con 5 mg. Cisatracurio Besilato de,157.59,bajo,33
+281,NIMBEX,Caja con 1 ampolleta de 10.0 ml con 20 mg. Cisatracurio Besilato de,416.5,bajo,78
+282,RAPIVIR,Caja con  10 tabletas de 500 mg. Valaciclovir,794.51,bajo,84
+283,RAPIVIR,Caja con  42 tabletas de 500 mg. Valaciclovir,2742.83,bajo,88
+284,RELENZA,Caja con 5 discos de 4 d¢sis C/U Polvo y Disp Inhal. Zanamivir,440.0,alto,76
+285,RELVARE,Caja con dispositivo inhalador con 30 d¢sis con 100mcg/25 mcg Vilanterol,887.0,medio,33
+286,RELVARE,Caja con dispositivo inhalador con 30 dosis con 200/25 mcg Vilanterol/Fluroato de Fluticasona,887.0,alto,87
+287,REVOLADE,Caja con 28 tabletas de 25 mg Eltrombopag,11635.83,medio,6
+288,REVOLADE,Caja con 28 tabletas de 50 mg Eltrombopag,23271.65,bajo,5
+289,SELZENTRY,Caja con 60 tabletas de 150 mg Maraviroc,15573.455,alto,49
+290,SELZENTRY,Caja con 60 tabletas de 300 mg Maraviroc,15573.455,bajo,49
+291,SERETIDE DISKUS,Caja con dispositivo Inh. 60 Ds. 50 mcg/500mcg. Salmeterol/Fluticasona propionato de,908.98,alto,93
+292,SERETIDE DISKUS,Caja con dispositivo Inh. 60 Ds. 50 mcg/100mcg. Salmeterol/Fluticasona propionato de,771.68,medio,81
+293,SERETIDE DISKUS,Caja con dispositivo Inh. 60 Ds. 50 mcg/250mcg. Salmeterol/Fluticasona propionato de,805.87,bajo,77
+294,SERETIDE EVOHALER CD,Caja con/disc. Inh. 120 Ds. 25 mcg/125mcg.  CD Salmeterol/Fluticasona propionato de,814.94,medio,1
+295,SERETIDE EVOHALER CD,Caja con/disc. Inh. 120 Ds. 25 mcg/250mcg.  CD Salmeterol/Fluticasona propionato de,921.13,alto,6
+296,SERETIDE EVOHALER CD,Caja con/disc. Inh. 120 Ds. 25 mcg/50mcg.    CD Salmeterol/Fluticasona propionato de,658.58,bajo,2
+297,SEREVENT,"Caja con frasco y disp. Inh. 120 D¢sis. 25 mcg, suspensi¢n aerosol Salmeterol/Fluticasona propionato de",297.46,bajo,9
+298,TELZER,Caja con 60 tabletas de 700 mg. Fosamprenavir,6898.26,medio,38
+299,TIVICAY,Caja con frasco con 30 tabletas 50 mg Doluteglavir,6540.0,medio,76
+300,TRIZIVIR,Caja con frasco con 60 tabletas Abacavir/Lamividina/Zidovudina,8250.99,medio,77
+301,TYKERB,Caja con 70 tabletas de 250 mg Lapatinib,16158.8,bajo,2
+302,VOLEBRIS,Caja con 30 tabletas 5 mg Ambrisentan,41588.0,medio,26
+303,VOLEBRIS,Caja con 30 tabletas 10 mg Ambrisentan,41588.0,bajo,49
+304,VOTRIENT,Caja con 30 tabletas de 200 mg Pazopanib,8937.93,bajo,67
+305,VOTRIENT,Caja con 60 tabletas de 400 mg Pazopanib,35751.72,medio,12
+306,XILIARX,Caja con 28 comprimidos con 50 mg Vildagliptina,506.0,bajo,40
+307,XILIARX,Caja con 56 comprimidos con 50 mg Vildagliptina,991.0,bajo,50
+308,XILIARX DUO,Caja con comprimidos de 50 / 500 mg c/30 Vildagliptina / Metformina,598.0,medio,11
+309,XILIARX DUO,Caja con comprimidos de 50 / 500 mg c/60 Vildagliptina / Metformina,1182.0,medio,84
+310,XILIARX DUO,Caja con comprimidos de 50 / 850 mg c/60 Vildagliptina / Metformina,1182.0,medio,89
+311,XILIARX DUO,Caja con comprimidos de 50 / 1000 mg c/30 Vildagliptina / Metformina,598.0,medio,79
+312,FLIXOVENT,"Caja con disco inhalador con 120 d¢sis de 25 mcg/50 mcg.  Salmeterol, Xinafoato de ",658.58,medio,32
+313,FLIXOVENT,"Caja con disco inhalador con 120 d¢sis de 25 mcg/125mcg.  Salmeterol, Xinafoato de ",814.94,bajo,97
+314,FLIXOVENT,"Caja con disco inhalador con 120 d¢sis de 25 mcg/250mcg.  Salmeterol, Xinafoato de ",921.13,bajo,1
+315,FLIXOVENT,"Caja con disco inhalador con 60 d¢sis de 50 mcg/100mcg.  Salmeterol, Xinafoato de ",771.68,alto,87
+316,FLIXOVENT,"Caja con disco inhalador con 60 d¢sis de 50 mcg/250mcg.  Salmeterol, Xinafoato de ",805.87,bajo,84
+317,FLIXOVENT,"Caja con disco inhalador con 60 d¢sis de 50 mcg/500mcg.  Salmeterol, Xinafoato de ",908.98,medio,5
+318,PALEXIA,Caja con 30 tabletas de 50 mg. Tapentadol,898.0,medio,69
+319,PALEXIA,Caja con 30 tabletas de 100 mg. Tapentadol,1652.0,bajo,50
+320,PALEXIA RETARD,Caja con 30 tabletas de 50 mg. Tapentadol,898.0,bajo,30
+321,PALEXIA RETARD,Caja con 30 tabletas de 100 mg. Tapentadol,1652.0,medio,55
+322,DARZALEX,Caja con frasco ampula con 100 mg Daratumumab,8004.16,bajo,51
+323,DARZALEX,Caja con frasco ampula con 400 mg Daratumumab,32016.66,bajo,95
+324,DURAPTA,Caja con frasco †mpula con 500 mg.  Doripenem,850.0,medio,28
+325,IMBRUVICA,Caja con frasco de 90 tabletas de 140 ml Ibrutinib,83858.52,alto,11
+326,IMBRUVICA,Caja con frasco de 120 tabletas de 140 ml Ibrutinib,111811.2005,bajo,42
+327,INTELENCE,Frasco con 120 tabletas de 100Mg Etravirina,11839.505,bajo,57
+328,INVOKANA,Caja con  30 tabletas de 100mg Canagliflozina,1215.219167,bajo,45
+329,INVOKANA,Caja con  30 tabletas de 300mg Canagliflozina,1215.219167,alto,35
+330,INVOKANA DUO,Caja con 60 tabletas con 150/1000 mg Canagliflozina / Metformina,1152.05,alto,46
+331,INVOKANA DUO,Caja con 60 tabletas con 150/850 mg Canagliflozina / Metformina,1152.05,medio,45
+332,OLYSIO,Caja con 7 c†psulas con 150 mg. Simeprevir,28370.75,bajo,60
+333,RESOTRANS,Caja con 14 tabletas de 1mg Prucaloprida,466.7925,bajo,61
+334,RESOTRANS,Caja con 14 tabletas de 2mg Prucaloprida,560.88,medio,34
+335,SIMPONI,Caja con pluma precargada con 0.5ml/50mg Golimumab,21478.51167,medio,84
+336,Simponi,Caja con una pluma mono-dosis precargada con 0.5 ml. Golimumab,,alto,29
+337,STELARA,Caja con frasco †mpula con 45 mg Ustekinumab,59768.04833,medio,100
+338,STELARA,Caja con una jeringa prellenada con 45 mg/0.5 ml Ustekinumab,59768.04833,alto,46
+339,VELCADE,Caja con frasco †mpula 3.5 mg. Bortezomib,20905.79,bajo,10
+340,VESICARE,Caja con 10 tabletas de 10 mg. Solifenacina,480.0,bajo,79
+341,VESICARE ,Caja con 20 tabletas de 5 mg. Solifenacina,730.0,alto,5
+342,VESICARE ,Caja con 10 tabletas de 5 mg. Solifenacina,368.0,alto,57
+343,AZILECT,Caja con 30 tabletas de 1 mg. Mesilato de Rasagilina,3001.5,alto,4
+344,AZILECT ,Caja con 10 tabletas de 1 mg. Mesilato de Rasagilina,1000.5,medio,70
+345,BRINTELLIX,Caja con 14 tabletas de 10 mg. Vortioxetina,785.0,medio,98
+346,BRINTELLIX,Caja con 28 tabletas de 10 mg. Vortioxetina,1570.0,medio,80
+347,LEXAPRO,Caja con 28 tabletas de 10 mg. Escitalopram,1199.0,bajo,29
+348,LEXAPRO,Caja con 14 tabletas de 10 mg. Escitalopram,607.0,medio,19
+349,LEXAPRO,Caja con 14 tabletas de 20 mg. Escitalopram,1099.0,alto,19
+350,AGRASTAT,Soluci¢n inyectable 12.5 mg./50 ml. Tirofiban,5683.76,medio,58
+351,AGRASTAT,Bolsa de pl†stico con soluci¢n inyectable 12.5 mg./250 ml. Tirofiban,6302.84,medio,11
+352,ARCOXIA,Caja con 7 tabletas de 120 mg. Etoricoxib,601.18,bajo,63
+353,ARCOXIA,Caja con 28 comprimidos de 90 mg Etoricoxib,1248.18,medio,25
+354,ARCOXIA,Caja con 28 comprimidos de 60 mg Etoricoxib,1119.1,alto,21
+355,ARCOXIA,Caja con 14 tabletas de 90 mg. Etoricoxib,828.54,medio,28
+356,ARCOXIA,Caja con 14 tabletas de 60 mg. Etoricoxib,789.9,alto,6
+357,ARCOXIA,Caja con 14 tabletas de 30 mg. Etoricoxib,813.4,bajo,16
+358,ARCOXIA,Caja con 7 tabletas de 60 mg. Etoricoxib,468.38,medio,52
+359,ARCOXIA,Caja con 7 tabletas de 90 mg. Etoricoxib,516.94,alto,21
+360,CANCIDAS,Caja con frasco †·mpula con polvo con 50 mg. Sol. Iny. Caspofungina,5435.8575,alto,36
+361,CANCIDAS,Caja con frasco †·mpula con polvo con 70 mg. Sol. Iny. Caspofungina,7084.335833,bajo,73
+362,COSOPT,Caja con frasco gotero con 5 ml. Soluci¢n Dorzolamida/Timolol,652.38,medio,49
+363,CRIXIVAN,Caja con frasco con 180 c†psulas de 400 mg. Indinavir,5269.45,bajo,1
+364,EMEND,Caja con 1 c†psula de 125 mg. Y 2 c†psulas de 80 mg. Aprepitant,1528.39,bajo,85
+365,EZETROL,Caja con 10 tabletas de 10 mg. Ezetimiba,422.29,bajo,69
+366,EZETROL,Caja con 20 tabletas de 10 mg. Ezetimiba,831.38,bajo,24
+367,FOSAMAX,Caja con 30 tabletas de 10 mg. En envase de burbuja Alendrontato s¢dico,1269.84,alto,9
+368,FOSAMAX,Caja con 4 tabletas de 70 mg. En envase de burbuja e instructivo Alendrontato s¢dico,1322.53,medio,63
+369,FOSAMAX PLUS,Caja con 4 tabletas de 70 mg.  Alendrontato s¢dico/Granulos de Vitamina D3,1323.9,bajo,65
+370,FOSAMAX PLUS,Caja con 4 tabletas de 70 mg/5600 UI.  Alendrontato s¢dico/Granulos de Vitamina D3,1323.9,bajo,10
+371,HYZAAR,Caja con 30 grageas de 100/25 mg. Losartan/Hidroclorotiazida,1175.01,medio,90
+372,HYZAAR,Caja con 15 grageas de 100/12.5 mg. Losartan/Hidroclorotiazida,638.87,bajo,45
+373,HYZAAR,Caja con 30 grageas de 100/12.5 mg. Losartan/Hidroclorotiazida,1175.01,bajo,89
+374,HYZAAR,Caja con 15 grageas de 100/25 mg. Losartan/Hidroclorotiazida,638.87,bajo,56
+375,HYZAAR,Caja con 15 grageas de 50/12.5 mg. Losartan/Hidroclorotiazida,427.06,medio,91
+376,HYZAAR,Caja con 30 grageas de 50/12.5 mg. Losartan/Hidroclorotiazida,797.8,bajo,15
+377,INVANZ ,Caja con frasco †mpula con polvo con 1 gr. Soluci¢n inyectable Ertapenem,1238.646667,alto,64
+378,INVANZ IM,Caja con frasco †mpula con polvo liofilizado de 1 gr. Y ampolleta con diluyente de lidocaina al 1% e instructivo Ertapenem,1304.24,medio,55
+379,ISENTRESS,Caja con 60 tabletas de 400 mg. Mex. Pink Raltegravir,11737.20583,medio,5
+380,JANUMET,Caja con 28 tabletas de 50/500 mg Sitagliptina/Metformina,600.6,medio,96
+381,JANUMET,Caja con 28 tabletas de 50/850 mg Sitagliptina/Metformina,591.4125,alto,90
+382,JANUMET,Caja con 56 tabletas de 50/500 mg Sitagliptina/Metformina,1188.85,bajo,29
+383,JANUMET,Caja con 56 tabletas de 50/850 mg Sitagliptina/Metformina,1170.655,bajo,24
+384,JANUMET,Caja con 56 tabletas de 50/1000 mg Sitagliptina/Metformina,1194.866667,medio,62
+385,JANUVIA,Caja con 28 tabletas de 100 mg Sitagliptina,1129.610833,bajo,59
+386,JANUVIA,Caja con 14 tabletas de 100 mg Sitagliptina,605.6666667,bajo,46
+387,JANUVIA,Caja con 28 tabletas de 50 mg Sitagliptina,1129.610833,alto,14
+388,JANUVIA,Caja con 28 tabletas de 25 mg Sitagliptina,1129.610833,alto,36
+389,MAXALT ,Caja con 2 tabletas de 10 mg. Rizaptriptan,457.93,alto,71
+390,MAXALT ,Caja con 2 tabletas de 5 mg. Rizaptriptan,555.07,medio,93
+391,MAXALT RAPIDISC,Caja con 2 obleas de 10 mg. Rizaptriptan,440.32,medio,100
+392,SINGULAIR,Caja con 30 tabletas masticables de 4 mg. Montelukast,1197.15,bajo,95
+393,SINGULAIR,Caja con 10 tabletas masticables de 4 mg. Montelukast,399.45,medio,1
+394,SINGULAIR,Caja con 10 sobres de 4 mg. granulado Montelukast,399.45,medio,60
+395,SINGULAIR,Caja con 20 tabletas masticables de 5 mg. Montelukast,813.65,alto,18
+396,SINGULAIR,Caja con 20 tabletas masticables de 10 mg. Montelukast,877.47,alto,91
+397,SINGULAIR,Caja con 10 tabletas masticables de 10 mg. Montelukast,493.05,alto,100
+398,SINGULAIR,Caja con 10 tabletas masticables de 5 mg. Montelukast,489.03,medio,88
+399,STROCRIN,Caja con 30 tabletas de 600 mg. Efavirenz,5092.35,bajo,2
+400,STROCRIN,Caja con 90 c†psulas de 200 mg. Efavirenz,5296.04,bajo,9
+401,VYTORIN,Caja con 28 comprimidos de 10/20 mg Ezetimiba/Simvastatina,1176.33,medio,24
+402,VYTORIN,Caja con 14 comprimidos de 10/80 mg Ezetimiba/Simvastatina,1055.81,medio,10
+403,VYTORIN,Caja con 14 comprimidos de 10/20 mg Ezetimiba/Simvastatina,617.59,bajo,61
+404,VYTORIN,Caja con 14 comprimidos de 10/40 mg Ezetimiba/Simvastatina,885.31,alto,40
+405,VYTORIN,Caja con 28 comprimidos de 10/10 mg Ezetimiba/Simvastatina,1123.68,bajo,9
+406,VYTORIN,Caja con 14 comprimidos de 10/10 mg Ezetimiba/Simvastatina,561.44,medio,3
+407,CO-DIOVAN,Caja con frasco con 14 grageas de 320 mg./12.5 mg. Valsartan/Hidroclorotiazida,737.0,medio,86
+408,CO-DIOVAN,Caja con frasco con 14 grageas de 320 mg./25 mg. Valsartan/Hidroclorotiazida,836.0,bajo,34
+409,CO-DIOVAN,Caja con frasco con 30 grageas de 320 mg./25 mg. Valsartan/Hidroclorotiazida,1791.0,medio,9
+410,CO-DIOVAN,Caja con frasco con 30 grageas de 320 mg./12.5 mg. Valsartan/Hidroclorotiazida,1579.0,bajo,41
+411,CO-DIOVAN,Caja con frasco con 30 grageas de 80 mg./12.5 mg. Valsartan/Hidroclorotiazida,842.0,alto,93
+412,CO-DIOVAN,Caja con frasco con 14 grageas de 80 mg./12.5 mg. Valsartan/Hidroclorotiazida,393.0,alto,69
+413,CO-DIOVAN,Caja con frasco con 14 grageas de 160 mg./25 mg. Valsartan/Hidroclorotiazida,510.0,medio,72
+414,CO-DIOVAN,Caja con frasco con 30 grageas de 160 mg./25 mg. Valsartan/Hidroclorotiazida,1093.0,medio,71
+415,CO-DIOVAN,Caja con frasco con 14 grageas de 160 mg./12.5 mg. Valsartan/Hidroclorotiazida,481.0,alto,1
+416,CO-DIOVAN,Caja con frasco con 30 grageas de 160 mg./12.5 mg. Valsartan/Hidroclorotiazida,1031.0,medio,94
+417,DIOVAN,Caja con 28 grageas de 40 mg. Valsartan,403.0,medio,69
+418,DIOVAN,Caja con  14 grageas de 320 mg. Valsartan,660.0,alto,34
+419,DIOVAN,Caja con 30 grageas de 80 mg. Valsartan,858.0,bajo,37
+420,DIOVAN,Caja con 14 grageas de 80 mg. Valsartan,402.0,bajo,21
+421,DIOVAN,Caja con 30 grageas de 160 mg. Valsartan,1119.0,alto,74
+422,DIOVAN,Caja con 14 grageas de 160 mg. Valsartan,523.0,medio,86
+423,EXFORGE (N),Caja con 14 comprimidos de 160mg/5mg. Valsartan/Amlodipine,518.0,alto,93
+424,EXFORGE (N),Caja con 28 comprimidos de 160mg/5mg. Valsartan/Amlodipine,1035.0,bajo,35
+425,EXFORGE (N),Caja con 14 comprimidos de 160mg/10mg. Valsartan/Amlodipine,493.0,medio,62
+426,EXFORGE (N),Caja con 28 comprimidos de 160mg/10mg. Valsartan/Amlodipine,987.0,bajo,30
+427,EXFORGE (N),Caja con 14 comprimidos de 320mg/5mg. Valsartan/Amlodipine,660.0,medio,42
+428,EXFORGE (N),Caja con 28 comprimidos de 320mg/5mg. Valsartan/Amlodipine,1293.0,bajo,81
+429,EXFORGE (N),Caja con 14 comprimidos de 320mg/10mg. Valsartan/Amlodipine,683.0,medio,75
+430,EXFORGE (N),Caja con 28 comprimidos de 230mg/10mg. Valsartan/Amlodipine,1330.0,alto,49
+431,EXFORGE HCT,Caja con 14 comprimidos de 160mg/5mg/12.5mg Valsartan/Amlodipine/Hidroclorotiazida,549.0,medio,25
+432,EXFORGE HCT,Caja con 28 comprimidos de 160mg/5mg/12.5mg Valsartan/Amlodipine/Hidroclorotiazida,1097.0,alto,69
+433,EXFORGE HCT,Caja con 14 comprimidos de 160mg/5mg/25mg Valsartan/Amlodipine/Hidroclorotiazida,570.0,alto,85
+434,EXFORGE HCT,Caja con 28 comprimidos de 160mg/5mg/25mg Valsartan/Amlodipine/Hidroclorotiazida,1139.0,bajo,12
+435,EXFORGE HCT,Caja con 28 comprimidos de 160mg/10mg/12.5mg Valsartan/Amlodipine/Hidroclorotiazida,1145.0,bajo,6
+436,EXFORGE HCT,Caja con 28 comprimidos de 320mg/10mg/12.5mg Valsartan/Amlodipine/Hidroclorotiazida,1410.0,medio,51
+437,EXJADE ,Caja con 28 Tabletas de 125 mg. Deferasirox,5076.0,medio,78
+438,EXJADE ,Caja con 28 Tabletas de 250 mg. Deferasirox,10154.0,medio,59
+439,EXJADE ,Caja con 28 Tabletas de 500 mg. Deferasirox,20308.0,alto,9
+440,GALVUS,Caja con 28 tabletas con 50 mg. Vidagliptina,507.6666667,medio,10
+441,GALVUS,Caja con 14 tabletas con 100 mg. Vidagliptina,425.0,bajo,35
+442,GALVUS,Caja con 28 tabletas con 100 mg. Vidagliptina,810.0,medio,92
+443,GALVUS ,Caja con 56 tabletas con 50 mg. Vidagliptina,1001.666667,alto,81
+444,GALVUS MET,Caja con 60 tabletas con 50mg/500mg. Vidagliptina/Metformina clorhidrato de,1185.973333,medio,93
+445,GALVUS MET,Caja con 60 tabletas con 50mg/850mg. Vidagliptina/Metformina clorhidrato de,1185.973333,medio,15
+446,GALVUS MET,Caja con 60 tabletas con 50mg/1000mg. Vidagliptina/Metformina clorhidrato de,1185.973333,bajo,75
+447,GALVUS MET,Caja con 30 tabletas con 50mg/500mg. Vidagliptina/Metformina clorhidrato de,598.0,medio,27
+448,GALVUS MET,Caja con 30 tabletas con 50mg/850mg. Vidagliptina/Metformina clorhidrato de,598.0,alto,7
+449,GALVUS MET,Caja con 30 tabletas con 50mg/1000mg. Vidagliptina/Metformina clorhidrato de,598.0,alto,44
+450,GLIVEC,Caja con 10 tabletas de 400 mg Imatinib mesilato de,13675.0,bajo,40
+451,GLIVEC,Caja con 30 tabletas de 400 mg Imatinib mesilato de,41026.0,bajo,34
+452,GLIVEC,Caja con 60 tabletas de 100 mg Imatinib mesilato de,17023.0,bajo,76
+453,GLIVEC,Caja con 60 c†psulas de 100 mg. Imatinib mesilato de,17023.0,bajo,23
+454,JAKAVI,Caja con 60 tabletas de 5mg Ruxolitinib,46250.0,bajo,96
+455,JAKAVI,Frasco con 60 tabletas de 5mg Ruxolitinib,46250.0,medio,60
+456,JAKAVI,Caja con 60 tabletas de 15mg Ruxolitinib,92500.0,bajo,99
+457,JAKAVI,Frasco con 60 tabletas de 15mg Ruxolitinib,92500.0,bajo,39
+458,JAKAVI,Caja con 60 tabletas de 20mg Ruxolitinib,92500.0,bajo,30
+459,JAKAVI,Frasco con 60 tabletas de 20mg Ruxolitinib,92500.0,bajo,44
+460,LUCENTIS ,Frasco †mpula de 10mg (0.5mg/0.5ml) Ranibizumab,19787.0,alto,47
+461,ONBRIZE,Caja con 30 c†psulas de 150 mg  (para inhalaci¢n) Indacaterol,821.0,alto,12
+462,ONBRIZE,Caja con 30 c†psulas de 300 mg (para inhalaci¢n) Indacaterol,821.0,alto,82
+463,PREXIGE,Caja con 30 comprimidos de 100 mg. Lumiracoxib,1224.0,bajo,48
+464,PREXIGE ,Caja con 10 comprimidos de 400 mg. Lumiracoxib,673.0,bajo,53
+465,PREXIGE ,Caja con 10 comprimidos de 100 mg. Lumiracoxib,505.0,medio,49
+466,RASILLES,Caja con 14 tabletas de 150 mg Aliskireno,517.0,alto,89
+467,RASILLES,Caja con 28 tabletas de 150 mg Aliskireno,1024.666667,bajo,58
+468,RASILLES,Caja con 56 tabletas de 150 mg Aliskireno,2068.0,bajo,32
+469,RASILLES,Caja con 14 tabletas de 300 mg Aliskireno,595.6666667,bajo,43
+470,RASILLES,Caja con 28 tabletas de 300 mg Aliskireno,1146.0,bajo,57
+471,RASILLES,Caja con 56 tabletas de 300 mg Aliskireno,2596.0,bajo,46
+472,RASILLES HCT,Caja con 14 tabletas de 300mg/12.5mg Aliskireno / Tekturna,626.0,alto,59
+473,RASILLES HCT,Caja con 28 tabletas de 300 mg/12.5mg Aliskireno / Tekturna,1190.0,medio,1
+474,RASILLES HCT,Caja con 14 tabletas de 150mg/12.5mg Aliskireno / Tekturna,553.0,medio,60
+475,RASILLES HCT,Caja con 28 tabletas de 150mg/12.5mg Aliskireno / Tekturna,1106.0,medio,91
+476,RASIMLOD,Caja con 14 tabletas de 300 mg/ 5mg Aliskireno / Amlodipino,646.0,medio,8
+477,RASIMLOD,Caja con 28 tabletas de 300 mg/5mg Aliskireno / Amlodipino,1292.0,medio,25
+478,RASIMLOD,Caja con 28 tabletas de 300 mg/10mg Aliskireno / Amlodipino,1292.0,bajo,7
+479,SEEBRI,Caja con 30 c·psulas de 50 mcg en envase de burbuja. Bromuro de Glicopirronio,838.0,bajo,30
+480,SIGNIFOR,Cja con 60 ampolletas de 0.9 mg Pasireotida,106375.0,medio,66
+481,SIGNIFOR,Cja con 30 ampolletas de 0.9 mg Pasireotida,53188.0,bajo,14
+482,SIGNIFOR,Cja con 60 ampolletas de 0.6 mg Pasireotida,92500.0,alto,77
+483,SIGNIFOR,Cja con 30 ampolletas de 0.6 mg Pasireotida,46250.0,bajo,75
+484,SIGNIFOR,Cja con 60 ampolletas de 0.3 mg Pasireotida,78625.0,bajo,12
+485,SIGNIFOR,Cja con 30 ampolletas de 0.3 mg Pasireotida,39313.0,alto,58
+486,TASIGNA,Caja con 28 tabletas de 150 mg Nilotinib,13186.0,alto,41
+487,TASIGNA,Caja con 112 tabletas de 150 mg Nilotinib,56511.0,medio,1
+488,TASIGNA,Caja con 120 tabletas de 150 mg Nilotinib,56511.0,bajo,65
+489,TASIGNA,Caja con 112 c†psulas de 200 mg. Nilotinib,79115.0,medio,36
+490,TASIGNA,Caja con 28 c†psulas de 200 mg. Nilotinib,19779.0,bajo,55
+491,ULTIBRO,"Caja con 30 c·psulas con polvo pata inhalaciÛn (no ingeribles), un dispositivo para inhalaciÛn. Maleato de Indacaterol",1260.0,bajo,76
+492,ZELMAC,Caja con 30 comprimidos de 6 mg. Tegaserod maleato hidrogenado,1138.0,medio,78
+493,ZELMAC ,Caja con 60 comprimidos de 6 mg. Tegaserod maleato hidrogenado,2274.0,alto,18
+494,ZYKADIA,Caja con 150 c·psulas en envase de burbuja con 150 mg. Certinib,105000.0,alto,26
+495,RYZODEG,Caja con 5 plumas inyectoras prellenadas de 3ml (7 0U-30U/ ml) Insulina Degludec/Insulina Aspartica,3070.318333,alto,63
+496,RYZODEG,Caja con 1 pluma inyectora prellenada de 3ml (70U-30U/ ml) y 7 agujas Novo Twist Insulina Degludec/Insulina Aspartica,614.0641667,bajo,29
+497,TRESIBA,Caja con 1 pluma inyectora prellenada de 3ml (100 U / ml) Insulina Degludec (ADN recombinante),720.815,alto,56
+498,TRESIBA,Caja con 5 plumas inyectoras prellenadas de 3ml (100 U / ml) Insulina Degludec (ADN recombinante),3604.0725,medio,63
+499,VICTOZA,Caja con 2 plumas prellenadas de 3ml (6mg / ml) Liraglutide,7171.155,medio,36
+500,SAXENDA,Caja con 3 plumas precargadas con 3 ml con 18 mg de Liraglutida (6mg/ml) Liraglutida,5842.6825,medio,23
+501,TRESIBA,Caja con 1 pluma inyectora prellenada que contiene un cartucho con 3 ml (200 U/ml) Insulina Degludec,1232.69,medio,56
+502,VICTOZA,Caja con 1 pluma prellenada 3 ml. Cada pluma libera 30 dosis con 0.6 mg/ml  Liraglutida,3613.015,medio,52
+503,BLAXITEC,Caja con 10 capsulas de 20 mg Bilastina,334.49,medio,73
+504,BLAXITEC,Caja con 20 capsulas de 20 mg Bilastina,531.44,medio,43
+505,BOSULIF,Caja en envase de burbuja con 28 tabletas 100 mg Bosutinib,9707.13,alto,81
+506,BOSULIF,Caja en envase de burbuja con 28 tabletas 500 mg Bosutinib,48535.67,bajo,69
+507,CADUET,Caja con 10 Tabletas de 5 mg/40 mg. Amlodipina / Atorvastatina,708.22,alto,25
+508,CADUET,Caja con 10 Tabletas de 5 mg/20 mg. Amlodipina / Atorvastatina,708.22,alto,2
+509,CADUET,Caja con 30 Tabletas de 5 mg/10 mg. Amlodipina / Atorvastatina,1139.29,medio,46
+510,CADUET,Caja con 30 Tabletas de 5 mg/40 mg. Amlodipina / Atorvastatina,1803.0,alto,21
+511,CADUET,Caja con 30 Tabletas de 5 mg/20 mg. Amlodipina / Atorvastatina,1785.83,medio,48
+512,CADUET,Caja con 10 Tabletas de 5 mg/10 mg. Amlodipina / Atorvastatina,397.85,alto,7
+513,CADUET ,Caja con 10 tabletas de 5 mg/80 mg. Amlodipina / Atorvastatina,505.24,alto,58
+514,CADUET ,Caja con 30 tabletas de 5 mg/80 mg. Amlodipina / Atorvastatina,1866.1,medio,45
+515,CELEBREX,20 c†psulas de 200 mg Celecoxib,1256.23,bajo,43
+516,CELEBREX,30 c†psulas de 200 mg Celecoxib,1553.08,alto,51
+517,CELEBREX,10 c†psulas de 200 mg Celecoxib,626.72,medio,100
+518,CELEBREX,Caja c/20 c†psulas de 100 mg Celecoxib ,346.5,medio,60
+519,CHAMPIX,Caja con 56 tabletas de 1 mg Tartrato de Vareniclina,2491.24,bajo,34
+520,CHAMPIX,Caja c/11 tabletas de 0.5mg + 14 tabs de 1 mg Tartrato de Vareniclina,976.45,medio,72
+521,CHAMPIX ,Caja c/11 tabletas de 0.5mg y 42 tabs de 1 mg Tartrato de Vareniclina,2491.24,medio,66
+522,CHAMPIX ,Caja con 28 tabletas de 1 mg Tartrato de Vareniclina,976.45,bajo,44
+523,CONBRIZA,Caja c/28 tabletas de 20mg Bazedoxifeno,1200.0,medio,93
+524,DYNASTAT,Caja con 2 viales de 40 mg. c/u Parecoxib,627.16,medio,45
+525,EQUALTHA,Frasco †mpula de 100mg y ampolleta de 30ml Anidulafungina,3333.32,medio,91
+526,FACTIVE-5 ,5 Tabletas de 320 mg. Gemifloxacino,860.83,alto,39
+527,FACTIVE-5  ,3 Tabletas de 320 mg. Gemifloxacino,520.95,medio,18
+528,GEODON,"2 ampulas 20 mg. I.M. Ziprazidona, Mesilato trihidratado de",555.71,alto,3
+529,GEODON,"28 c†psulas de 40 mg Ziprazidona, Clorhidrato monohidratado de",1829.32,alto,22
+530,GEODON,"28 c†psulas de 60 mg Ziprazidona, Clorhidrato monohidratado de",1829.32,bajo,76
+531,GEODON,"28 c†psulas de 80 mg Ziprazidona, Clorhidrato monohidratado de",1829.32,bajo,80
+532,GEODON,"14 c†psulas de 40 mg Ziprazidona, Clorhidrato monohidratado de",1082.62,bajo,19
+533,GEODON,"14 c†psulas de 60 mg Ziprazidona, Clorhidrato monohidratado de",1082.62,bajo,47
+534,GEODON,"14 c†psulas de 80 mg Ziprazidona, Clorhidrato monohidratado de",1082.62,bajo,64
+535,GEODON,"56 c†psulas de 40 mg Ziprazidona, Clorhidrato monohidratado de",2766.0,bajo,37
+536,GEODON,"56 c†psulas de 60 mg Ziprazidona, Clorhidrato monohidratado de",2766.0,medio,42
+537,GEODON,"56 c†psulas de 80 mg Ziprazidona, Clorhidrato monohidratado de",2462.0,medio,22
+538,INLYTA,Frasco con 60 tabletas de 5 mg Axitinib,111160.82,bajo,46
+539,INLYTA,Frasco con 180 tabletas de 1 mg Axitinib,66696.49,alto,75
+540,LIPITOR,10 tabletas de 20 mg Atorvastatina Calcica trihidratada,580.54,medio,17
+541,LIPITOR,20 tabletas de 10 mg Atorvastatina Calcica trihidratada,755.01,bajo,31
+542,LIPITOR,30 tabletas de 10 mg Atorvastatina Calcica trihidratada,985.3,bajo,99
+543,LIPITOR,21 tabletas de 40 mg Atorvastatina Calcica trihidratada,1183.66,medio,82
+544,LIPITOR,7 tabletas de 40 mg Atorvastatina Calcica trihidratada,388.69,medio,9
+545,LIPITOR,30 tabletas de 80 mg Atorvastatina Calcica trihidratada,1551.6,bajo,89
+546,LIPITOR,30 tabletas de 20 mg Atorvastatina Calcica trihidratada,1551.66,medio,71
+547,LIPITOR,15 tabletas de 20 mg Atorvastatina Calcica trihidratada,892.17,bajo,59
+548,LIPITOR,15 tabletas de 40 mg Atorvastatina Calcica trihidratada,892.16,medio,18
+549,LIPITOR,30 tabletas de 40 mg Atorvastatina Calcica trihidratada,1551.6,bajo,35
+550,LIPITOR,15 tabletas de 80 mg Atorvastatina Calcica trihidratada,892.17,bajo,61
+551,LYRICA,14 c†psulas de 300 mg Pregabalina,669.58,medio,45
+552,LYRICA,28 c†psulas de 300 mg Pregabalina,1103.77,alto,17
+553,LYRICA,14 c†psulas de 150 mg Pregabalina,532.0,alto,35
+554,LYRICA,28 c†psulas de 75 mg Pregabalina,893.85,bajo,86
+555,LYRICA,28 c†psulas de 150 mg Pregabalina,875.02,medio,61
+556,LYRICA,14 c†psulas de 75 mg Pregabalina,542.23,bajo,23
+557,NEUMEGA,1 vial 5 mg. Oprelvekina,2330.5,bajo,13
+558,PATREX,Caja con 1 tableta de 50 mg Sildenafil,221.1,medio,77
+559,PATREX,Caja con 4 tabletas de 100 mg Sildenafil,921.63,alto,21
+560,PATREX,Caja con 1 tableta de 100 mg Sildenafil,230.35,bajo,72
+561,PATREX,Caja con 4 tabletas de 50 mg Sildenafil,835.38,medio,33
+562,PRISTIQ,Caja con 14 tabletas de 100 mg Desvenlafaxina,1006.38,bajo,67
+563,PRISTIQ,Caja con 14 tabletas de 50 mg Desvenlafaxina,1007.79,bajo,23
+564,PRISTIQ,Caja con 28 tabletas de 100 mg Desvenlafaxina,1726.25,bajo,1
+565,PRISTIQ,Caja con 28 tabletas de 50 mg Desvenlafaxina,1727.62,medio,6
+566,PRISTIQ,Caja con 7 tabletas de 50 mg Desvenlafaxina,303.33,alto,75
+567,RELPAX,Caja con 2 tabletas de 80 mg Eletriptan,362.88,alto,64
+568,RELPAX,Caja con 2 tabletas de 40 mg Eletriptan,344.02,bajo,62
+569,REVATHIO,Caja con 90 tabletas de 20 mg. Sildenafil,7959.63,bajo,98
+570,SUTENT-28,Caja con 28 capsulas de 12.5 mg Sunitinib,24537.18,bajo,66
+571,SUTENT-28,Caja con 28 capsulas de 25 mg Sunitinib,49074.36,medio,12
+572,SUTENT-28,Caja con 28 capsulas de 50 mg Sunitinib,98148.71,bajo,81
+573,TORISEL,Caja con 1 frasco ampula de 25mg Temsirolimus,24749.92,medio,56
+574,TYGACIL,1 frasco †mpula de 50 mg. Sol. Iny. Tigeciclina,1051.42,alto,69
+575,VFEND,Caja con 14 tabletas de 200 mg Voriconazole,7441.64,medio,13
+576,VFEND,Caja con 14 tabletas de 50 mg Voriconazole,1949.0,alto,55
+577,VFEND,1 x 200 mg. Inyectable Voriconazole,1989.03,medio,41
+578,VIAGRA,Caja con 1 tableta de 50 mg Sildenafil,221.1,medio,68
+579,VIAGRA,Caja con 4 tabletas de 50 mg Sildenafil,835.38,bajo,34
+580,VIAGRA,Caja con 4 tabletas de 100 mg Sildenafil,921.63,alto,20
+581,VIAGRA,Caja con 1 tableta de 100 mg Sildenafil,230.35,bajo,32
+582,XALKORI,Frasco con  60 c†psulas de 200 mg Crizonitib,113547.0,bajo,73
+583,XALKORI,Frasco con 60 c†psulas de 250 mg Crizonitib,113547.0,medio,35
+584,XELJANZ,Caja con 28 tabletas de 5 mg Tofacitinib,9705.93,bajo,78
+585,XELJANZ,Caja con 56 tabletas de 5 mg Tofacitinib,18857.23,bajo,85
+586,ZYVOXAM,"Blsa de infusi¢n, sol iny 300ml 2mg/ml Linezolib",1190.25,alto,18
+587,ZYVOXAM,Caja con 10 tabletas de 600 mg Linezolib,8950.59,bajo,16
+588,CIMZIA,"Caja con 2 jeringas prellenadas con aguja con 200 mg/ml, con 2 almohadillas impregnadas con alcohol. Certolizumab Pegol",17180.82,bajo,24
+589,OSLIF,Caja con 30 c†psulas de 150 mcg  (para inhalaci¢n) Indacaterol,829.0,bajo,79
+590,OSLIF,Caja con 30 c†psulas de 300 mcg (para inhalaci¢n) Indacaterol,829.0,medio,64
+591,AVASTIN,Caja con un fco. Amp.100mg/4ml sol.iny Bevacizumab,9359.5,alto,80
+592,AVASTIN,Caja con un fco. Amp.400mg/16ml sol.iny Bevacizumab,33821.0,bajo,40
+593,BONDRONAT,Caja con un fco. Amp.6mg/6ml IV (infusi¢n) sol.iny Ibandonato de sodio monohidratado,3810.0,bajo,6
+594,BONDRONAT,Caja con 28 comprimidos de 50 mg. Ibandonato de sodio monohidratado,4040.0,medio,56
+595,BONVIVA,Caja con 1 jeringa precargada de 3mg/3ml Ibandronato de sodio monohidratado,3508.636364,bajo,7
+596,BONVIVA,Caja con 1 comprimido de 150 mg Ibandronato de sodio monohidratado,1112.181818,bajo,35
+597,CELLCEPT,Caja con 50 c†psulas de 500 mg. Micofenolato mofietilo,3430.0,alto,7
+598,CELLCEPT,Caja con 100 c†psulas de 250 mg. Micofenolato mofietilo,3430.0,alto,59
+599,ERIVEDGE,Caja con 28 tabletas de 150 mg Vismodegib,113733.0,alto,94
+600,FORTOVASE,Caja con 180 c†psulas de 200 mg. Saquinavir,2216.7,medio,62
+601,GAZYVA,Caja con un fco. †mpula con 1000mg/40ml vial Obinutuzumab,69911.0,medio,87
+602,INVIRASE,Caja con  frasco con 120 comprimidos de 500 mg. Saquinavir mesilato de,4673.0,bajo,31
+603,KADCYLA,Caja con un fco. †mpula con 100 mg Trastuzumab Emtansina,31884.5,medio,84
+604,KADCYLA,Caja con un fco. †mpula con 160 mg Trastuzumab Emtansina,51016.0,medio,99
+605,MIRCERA,Caja con 1 jeringa prellenada de 50 mg / 0.3 ml. Metoxi-polietilenglicol eritoproyetina beta,2315.0,medio,87
+606,MIRCERA,Caja con 1 jeringa prellenada de 75 mg / 0.3 ml. Metoxi-polietilenglicol eritoproyetina beta,3323.0,alto,1
+607,MIRCERA,Caja con 1 jeringa prellenada de 100 mg / 0.3 ml. Metoxi-polietilenglicol eritoproyetina beta,4435.5,medio,47
+608,MIRCERA,Caja con 1 jeringa prellenada de 150 mg / 0.3 ml. Metoxi-polietilenglicol eritoproyetina beta,6300.0,alto,75
+609,MIRCERA,Caja con 1 jeringa prellenada de 200 mg / 0.3 ml. Metoxi-polietilenglicol eritoproyetina beta,7464.5,alto,36
+610,MIRCERA,Caja con 1 jeringa prellenada de 250 mg / 0.3 ml. Metoxi-polietilenglicol eritoproyetina beta,9333.0,bajo,3
+611,PEGASYS,Caja con 1 jeringa precargada de 0.5 ml. c/180 mcg. Peginterferon Alfa 2a,4600.0,alto,40
+612,PEGASYS,Caja con 1 pluma precargada de 0.5 ml. c/180 mcg. Peginterferon Alfa 2a,4600.0,bajo,70
+613,PEGASYS,Caja con fco. Amp de 1ml de 180mcg Peginterferon Alfa 2a,3510.0,bajo,92
+614,PERJETA,Caja con frasco ampula 30mg/14ml. Pertuzumab,57969.5,bajo,57
+615,PERJETA,Caja con frasco ampula 30mg/14ml y frasco ampula CON 440 mg Pertuzumab + Trastuzumab,78277.0,alto,46
+616,TAMIFLU,Caja con 10 c†psulas de 75 mg. Oseltamivir,690.0,alto,81
+617,TAMIFLU,Caja con 10 c†psulas de 30 mg. Oseltamivir,277.0,alto,17
+618,TARCEVA,Caja con 30 comprimidos de 100 mg. Erlotinib clorhidrato de,34081.0,alto,68
+619,TARCEVA,Caja con 30 comprimidos de 150 mg. Erlotinib clorhidrato de,41999.0,medio,53
+620,TARCEVA,Caja con 30 comprimidos de 25 mg. Erlotinib clorhidrato de,8668.0,medio,92
+621,VALCYTE,Caja con 60 tabletas 450 mg. Clorhidrato de valganciclovir,27431.0,alto,57
+622,VIRACEPT,Caja con 270 comprimidos de 250 mg Mesilato de Nelfinavir,6764.2,bajo,48
+623,VIRACEPT,Caja con fco. con polvo de 144 g. Mesilato de Nelfinavir,802.5,medio,45
+624,XELODA,Caja con 120 grageas de 500 mg Capecitabina,18616.0,bajo,26
+625,ZELBORAF,Caja con 56 tabletas 240 mg. Vemurafenib (1),39867.5,alto,70
+626,ZELBORAF,Caja con 56 tabletasde 240 mg  . vemurafenib,,medio,12
+627,ACOMPLIA,Caja con 28 tabletas de 20 mg. Rimonabant,1974.5,bajo,84
+628,ACOMPLIA ,Caja con 14 tabletas de 20 mg Rimonabant,1036.6,bajo,1
+629,APROVEL,Caja con 14 tabletas 300 mg. Irbesartan,303.0,alto,55
+630,APROVEL,Caja con 28 tabletas 300 mg. Irbesartan,582.0,medio,30
+631,APROVEL,Caja con 28 tabletas 150 mg. Irbesartan,399.0,medio,99
+632,APROVEL,Caja con 14 tabletas 150 mg. Irbesartan,218.0,alto,11
+633,CLEXANE,Caja con 2 Jeringas de 20 mg. Enoxaparina,308.5,alto,33
+634,CLEXANE,Caja con 2 Jeringas de 40 mg. Enoxaparina,379.1,bajo,38
+635,CLEXANE,Caja con 2 Jeringas de 60 mg. Enoxaparina,555.56,alto,27
+636,CLEXANE,Caja con 2 Jeringas de 80 mg. Enoxaparina,782.45,alto,31
+637,CO-APROVEL,Caja con 14 tabletas 300 mg/ 12.5mg Irbesartan/Hidroclorotiazida,337.0,medio,14
+638,CO-APROVEL,Caja con 14 tabletas 150 mg/12.5mg Irbesartan/Hidroclorotiazida,222.0,medio,62
+639,CO-APROVEL,Caja con 28 tabletas 150 mg/12.5mg Irbesartan/Hidroclorotiazida,396.0,alto,8
+640,CO-APROVEL,Caja con 28 tabletas 300 mg / 12.5mg Irbesartan/Hidroclorotiazida,628.0,bajo,93
+641,CO-APROVEL,Caja con 28 tabletas 300 mg / 25mg Irbesartan/Hidroclorotiazida,638.0,alto,86
+642,CO-APROVEL,Caja con 14 tabletas 300 mg /  25mg Irbesartan/Hidroclorotiazida,337.0,alto,72
+643,CO-PLAVIX,Caja con 14 tabletas 75mg/100mg Clopidogrel/µcido acetilsalicilico,634.2,bajo,7
+644,CO-PLAVIX,Caja con 28 tabletas 75mg/100mg Clopidogrel/µcido acetilsalicilico,1153.8,medio,42
+645,JEVTANA,Frasco †mpula 60mg/1.5ml y fco con diluyente Cabazitaxel,80149.0,medio,29
+646,KETEK,10 tabletas 400 mg. Telitromicina,573.3,alto,66
+647,LYXUMIA,Caja con 1 cartucho con 3ml en dispositivo desechable con 14 dosis de 20mcg/0.2ml Lixisenatida,999.0,alto,23
+648,LYXUMIA,Caja con 1 cartucho con 3ml en dispositivo desechable con 14 dosis de 10mcg/0.2ml y 1 cartucho con 3ml en dispositivo desechable con 14 dosis de 20mcg/0.2ml Lixisenatida,1802.3,alto,95
+649,PLAVIX,Caja con 14 grageas 75 mg. Clopidogrel ,636.8,alto,35
+650,PLAVIX,Caja con 28 grageas 75 mg. Clopidogrel ,1155.2,alto,27
+651,PLAVIX,Caja con 4 grageas 300 mg. Clopidogrel ,694.4,medio,70
+652,REGIVAS,Caja con 20 tabletas 400 mg. Dronedarona,600.0,medio,78
+653,TAXOTERE,Caja con 1 fco ampula de de 20 mg. Docetaxel,3520.0,alto,55
+654,TAXOTERE,Caja con 1 fco ampula de 80 mg. Docetaxel,12908.0,medio,83
+655, AVIANT,Jarabe 60 ml. Desloratadina,234.44,bajo,60
+656,AVIANT,Soluci¢n  60 ml. 0.5mg/ml Desloratadina,234.44,bajo,94
+657,AVIANT, Caja con 10 tabletas de 5 mg. Desloratadina,234.1,alto,76
+658,AVIANT, Caja con 20 tabletas de 5 mg. Desloratadina,383.25,bajo,70
+659,BRIDION,Caja con frasco 100mg/ml vial 2ml Sugammadex,15467.73333,bajo,46
+660,ELOVENT TWISTER,Frasco con 60 dosis de 200 mcg. Mometazona Furoato de,575.18,bajo,67
+661,ELOVENT TWISTER,Frasco con 30 dosis de 200 mcg. Mometazona Furoato de,400.56,medio,89
+662,ETHYOL,Soluci¢n inyectable de 500 mg. Amifostina,3171.0,alto,29
+663,JANUMET XR,Frasco con 14 tabletas de (100/1000 mg.) Sitagliptina/Metformina,664.91,alto,35
+664,JANUMET XR,Frasco con 28 tabletas de (100/1000 mg.) Sitagliptina/Metformina,1316.1375,medio,84
+665,JANUMET XR,Frasco con 28 tabletas de (50/500 mg.) Sitagliptina/Metformina,664.91,bajo,73
+666,JANUMET XR,Frasco con 56 tabletas de (50/1000 mg.) Sitagliptina/Metformina,1316.1375,alto,22
+667,JANUMET XR,Frasco con 56 tabletas de (50/500 mg.) Sitagliptina/Metformina,1316.1375,bajo,18
+668,KEYTRUDA,Caja con frasco ·mpula con 100 mg/4mL. Pembrolizumab,72624.39,alto,33
+669,ONICIT,Soluci¢n inyectable de 0.25 mg. Palonosetron,2312.03,bajo,92
+670,PEG PEN,Frasco †mpula con liofilizado con 80 mcg. Peginterferon Alfa-2b,3486.801667,bajo,51
+671,PEG PEN,Frasco †mpula con liofilizado con 100 mcg. Peginterferon Alfa-2b,4357.823333,alto,35
+672,PEG PEN,Frasco †mpula con liofilizado con 120 mcg. Peginterferon Alfa-2b,4318.2525,bajo,25
+673,PEG PEN,Caja con frasco ·mpula 50 mcg. Peginterferon Alfa-2b,1608.35,alto,25
+674,PEG PEN,Frasco †mpula con liofilizado con 50 mcg. Peginterferon Alfa-2b,1457.28,bajo,40
+675,PEG-INTRON ,Alfa 2B 1 vial con 100 mcg. Peginterferon Alfa-2b,2854.44,alto,59
+676,PEG-INTRON ,Alfa 2B 1 vial con 120 mcg. Peginterferon Alfa-2b,3278.88,alto,60
+677,PEG-INTRON ,Alfa 2B 1 vial con 150 mcg. Peginterferon Alfa-2b,4098.6,alto,52
+678,PEG-INTRON ,Alfa 2B 1 vial con 80 mcg. Peginterferon Alfa-2b,2185.92,medio,96
+679,PEG-INTRON ,Alfa 2B 1 vial con 50 mcg. Peginterferon Alfa-2b,1366.2,bajo,24
+680,RINELON,0.05% spray nasal 18 ml.  Mometazona Furoato de,786.15,bajo,51
+681,RINELON,Soluci¢n Ped. 10 ml. Mometazona Furoato de,504.51,medio,56
+682,SPRIAFIL,SuspensiÛn 40mg 105ml. Susp.1 Posaconazol,15319.725,medio,73
+683,TEMODAL,C†psulas 100 mg.x 5 Temozolamida,9257.64,alto,2
+684,TEMODAL,C†psulas 20 mg.x 5 Temozolamida,1683.02,bajo,56
+685,VICTRELIS,Caja con 336 capsulas de 200 mg Boceprevir,56691.28,bajo,4
+686,ZENHALE,Caja con un frasco de aluminio dosificador conn 13 g(120 inhalaciones) de 100 mcg/5mcg por inhalacion. Mometasona / Formoterol,907.37375,bajo,37
+687,ZENHALE,Caja con un frasco de aluminio dosificador conn 13 g(120 inhalaciones) de 200 mcg/5mcg por inhalacion. Mometasona / Formoterol,987.69125,medio,55
+688,ZIENT,Caja con 7  tabletas de 10 mg Ezetimiba,196.53,alto,40
+689,ZIENT,Caja con 14 tabletas de 10 mg Ezetimiba,441.63,bajo,6
+690,ZIENT,Caja con 28 tabletas de 10 mg Ezetimiba,887.33,bajo,1
+691,ZINTREPID,Caja con 14 comprimidos con 10 mg. / 10 mg. Ezetimiba/Zimvastatina,561.45,alto,98
+692,ZINTREPID,Caja con 28 comprimidos con  10 mg. / 10 mg. Ezetimiba/Zimvastatina,1123.68,alto,22
+693,ZINTREPID,Caja con 7 comprimidos con 10 mg. / 20 mg.  Ezetimiba/Zimvastatina,266.81,medio,93
+694,ZINTREPID,Caja con 14 comprimidos con 10 mg. / 20 mg. Ezetimiba/Zimvastatina,617.59,medio,67
+695,ZINTREPID,Caja con 28 comprimidos con 10 mg. / 20 mg. Ezetimiba/Zimvastatina,1176.34,bajo,57
+696,ZINTREPID,Caja con 14 comprimidos con 10 mg. / 40 mg. Ezetimiba/Zimvastatina,794.99,bajo,79
+697,ZINTREPID,Caja con 28 comprimidos con 10 mg. / 40 mg. Ezetimiba/Zimvastatina,1295.62,alto,94
+698,GONAL- F 1050,"Caja cart¢n c/1 fco. µmpula c/liof., 1 jeringa prell. c/2 ml. de diluy., 15 jeringas desech. p/la adm¢n. graduada en unidades de FSH y 15 toallitas c/alcohol e instructivo, p/la concentraci¢n de 1200 U.I./2ml. [1050 UI (77 mcg)/1.75] Folitropina Alfa",11088.22,alto,22
+699,GONAL- F 450,"Caja cart¢n c/1 fco. µmpula c/liof., 1 jeringa prell. c/1 ml. de diluy., 7 jeringas desech. p/la adm¢n. Graduada en unidades de FSH y 7 toallitas c/alcohol e instructivo, p/la concentraci¢n 600 U.I./ml. Folitropina Alfa",4752.1,alto,56
+700,GONAL- F 75,"Caja c/fco. Amp. C/liof. 1 jeringa prell. c/diluy.,1 aguja esteril p/extraer la sol. 1 aguja p/iny., 2 toall. c/alcohol. Folitropina Alfa",792.02,bajo,47
+701,GONAL- F PEN 300,Caja con cartucho prellenado con 0.5 ml. de soluci¢n inyectable [300 UI/22 mcg] con jeringa tipo pluma y 5 agujas. Folitropina Alfa,3168.06,bajo,7
+702,GONAL- F PEN 450,Caja con cartucho prellenado con 0.75 ml. de soluci¢n inyectable [450 UI/33 mcg] con jeringa tipo pluma y 7 agujas. Folitropina Alfa,4752.1,medio,95
+703,GONAL- F PEN 900,Caja con cartucho prellenado con 1.5 ml. de soluci¢n inyectable [900 UI/66 mcg] con jeringa tipo pluma y 14 agujas. Folitropina Alfa,9504.19,bajo,80
+704,RAPTIVA,"Caja con 4 unidades, cada unidad contiene un frasco †mpula de 125 mg. etiquetado con jeringa prellenada con 1.3 ml. de diluyente, dos agujas y dos toallitas con alcohol. Efalizamab",25288.06,alto,81
+705,VYVANSE,Caja con 28 c†psulas de 30 mg Lisdexanfetamina,3889.61,alto,5
+706,VYVANSE,Caja con 28 c†psulas de 50 mg Lisdexanfetamina,4007.57,bajo,91
+707,VYVANSE,Caja con 28 c†psulas de 70 mg Lisdexanfetamina,4139.83,alto,56
+708,DEXIVANT,Caja con 14 c†psulas con 30 mg. Dexlansoprazol,473.5,bajo,69
+709,DEXIVANT,Caja con 7 c†psulas con 60 mg. Dexlansoprazol,508.5,bajo,66
+710,DEXIVANT,Caja con 14 c†psulas con 60 mg. Dexlansoprazol,758.0,alto,63
+711,EDARBI,Frasco con 14 tabletas de 40 mg Azilsartan Medoxomilo,459.0,alto,16
+712,EDARBI,Frasco con 28 tabletas de 40 mg Azilsartan Medoxomilo,801.0,alto,15
+713,EDARBI,Frasco con 14 tabletas de 80 mg Azilsartan Medoxomilo,625.0,medio,44
+714,EDARBI,Frasco con 28 tabletas de 80 mg Azilsartan Medoxomilo,1084.0,medio,89
+715,EDARBI CLD,Frasco con 14 tabletas de 40 mg Azilsartan Medoxomilo/Clortalidona,505.0,bajo,70
+716,EDARBI CLD,Frasco con 28 tabletas de 40 mg Azilsartan Medoxomilo/Clortalidona,882.0,medio,45
+717,EDARBI CLD,Frasco con 14 tabletas de 80 mg Azilsartan Medoxomilo/Clortalidona,687.5,medio,96
+718,EDARBI CLD,Frasco con 28 tabletas de 80 mg Azilsartan Medoxomilo/Clortalidona,1170.0,alto,49
+719,INCRESINA,Frasco con 28 tabletas de 12.5 mg Alogliptina,715.5,alto,48
+720,INCRESINA,Frasco con 14 tabletas de 25 mg Alogliptina,422.0,medio,94
+721,INCRESINA,Frasco con 28 tabletas de 25 mg Alogliptina,715.5,bajo,98
+722,INCRESINA P,Frasco con 28 tabletas de 25mg/15mg Alogliptina/Pioglitazona,758.5,bajo,55
+723,INCRESINA P,Frasco con 28 tabletas de 25mg/30mg Alogliptina/Pioglitazona,758.5,medio,8
+724,RENEGY,Caja con frasco †mpula de 10 ml (500mg/ml) Carboximaltosa fÇrrica,3133.0,alto,25
+725,TURAZIVE,Caja con frasco con 15 tabletas de 80 mg. Febuxostat,363.0,bajo,99
+726,TURAZIVE,Caja con frasco con 30 tabletas de 80 mg. Febuxostat,677.0,alto,56
+727,AZOMYR,Caja con frasco con soluci¢n de 60 ml. Desloratadina,234.44,bajo,14
+728,AZOMYR,Caja con 10 tabletas Desloratadina,234.1,medio,96
+729,AZOMYR,Caja con 20 tabletas Desloratadina,383.25,bajo,53
+730,AZOMYR,Frasco con 60 ml. Jarabe Desloratadina,234.44,alto,52
+731,FAZIQUE,Caja con 14 comprimidos de 100 mg. Sitagliptina,1923.96,bajo,17
+732,FAZIQUE,Caja con 28 comprimidos de 100 mg. Sitagliptina,3847.9,bajo,98
+733,FAZIQUE,Caja con 28 comprimidos de 25 mg. Sitagliptina,1569.96,alto,38
+734,FAZIQUE,Caja con 28 comprimidos de 50 mg. Sitagliptina,1381.56,bajo,79
+735,UNICLAR,"Soluci¢n pediatrico 10 ml. Mometazona, Furoato de ",504.5,medio,94
+736,UNICLAR,"Spray nasal 18 ml. Mometazona, Furoato de",755.91,bajo,93
+737,VELMETIA,Caja con 28 comprimidos 50/500 mg. Sitagliptina/metformina,877.77,alto,14
+738,VELMETIA,Caja con 28 comprimidos 50/850 mg. Sitagliptina/metformina,555.37,alto,47
+739,VELMETIA,Caja con 56 comprimidos 50/1000 mg. Sitagliptina/metformina,2342.61,medio,24
+740,VELMETIA,Caja con 56 comprimidos 50/500 mg. Sitagliptina/metformina,1755.5,medio,8
+741,VELMETIA,Caja con 56 comprimidos 50/850 mg. Sitagliptina/metformina,1110.74,medio,10

@@ -1,0 +1,16 @@
+{
+  "name": "faker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "PhoneNumbers.js",
+  "type ": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node PhoneNumbers.mjs"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@faker-js/faker": "^8.2.0"
+  }
+}
