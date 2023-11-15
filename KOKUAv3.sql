@@ -6,6 +6,7 @@ DROP TABLE IF EXISTS `Usuarios`;
 
 CREATE TABLE `Usuarios` (
   `IDUsuario` INT PRIMARY KEY AUTO_INCREMENT,
+  `Username` varchar(100),
   `Password` VARCHAR(100),
   `TipoAcceso` ENUM('Almacen','Proveedor','Ejecutivo','Compras')
 )ENGINE=InnoDB DEFAULT CHARSET=latin1;
@@ -14,12 +15,14 @@ DROP TABLE IF EXISTS `Doctores`;
 
 CREATE TABLE `Doctores` (
   `IDDoctor` INT PRIMARY KEY AUTO_INCREMENT,
+  `IDUsuario` INT
   `CedulaProfesional` INT NOT NULL,
   `Nombre` VARCHAR(255),
   `Apellido` VARCHAR(255),
   `FechaNacimiento` DATE,
   `CostoCita` DOUBLE,
-  `Especialidad` VARCHAR(255)
+  `Especialidad` VARCHAR(255),
+  FOREIGN KEY (`IDUsuario`) REFERENCES `Usuarios`(`IDUsuario`)
 )ENGINE=InnoDB DEFAULT CHARSET=latin1;
 
 
@@ -28,10 +31,12 @@ DROP TABLE IF EXISTS `Pacientes`;
 CREATE TABLE `Pacientes` (
   `IDPaciente` INT PRIMARY KEY AUTO_INCREMENT,
   `Nombre` VARCHAR(255),
+  `IDUsuario` INT,
   `Apellido` VARCHAR(255),
   `Padecimento` VARCHAR(255),
   `EstatusPaciente` ENUM('Muerto','Critico', 'Atencion_Constante', 'Estable','Servicio_Expirado'),
-  `SaldoActual` DOUBLE
+  `SaldoActual` DOUBLE,
+  FOREIGN KEY (`IDUsuario`) REFERENCES `Usuarios`(`IDUsuario`)
 )ENGINE=InnoDB DEFAULT CHARSET=latin1;
 
 DROP TABLE IF EXISTS `Aseguradoras`;
