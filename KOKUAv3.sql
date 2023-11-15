@@ -6,10 +6,10 @@ DROP TABLE IF EXISTS `Usuarios`;
 
 CREATE TABLE `Usuarios` (
   `IDUsuario` INT PRIMARY KEY AUTO_INCREMENT,
-  `Username` varchar(100),
+  `Username` VARCHAR(100),
   `Password` VARCHAR(100),
-  `TipoAcceso` ENUM('Almacen','Proveedor','Ejecutivo','Compras')
-)ENGINE=InnoDB DEFAULT CHARSET=latin1;
+  `TipoAcceso` ENUM('Almacen','Proveedor','Ejecutivo','Compras', 'Medico', 'Paciente', 'Administrador')
+  )ENGINE=InnoDB DEFAULT CHARSET=latin1;
 
 DROP TABLE IF EXISTS `Doctores`;
 
